@@ -1,1 +1,2 @@
-# shuperdark.pop.repo
+# タップすると爆発するやつ
+# ※MCPE 0.14.1
